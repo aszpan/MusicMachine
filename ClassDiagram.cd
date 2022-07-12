@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access" MembersFormat="FullSignature">
+  <Class Name="MusicMachine::Machine">
+    <Position X="21" Y="0.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AgAgAAAgAAAEAAAEAAAEAACAAAEAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Main.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicMachine::Music">
+    <Position X="15" Y="0.75" Width="3.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="MusicMachine::Music::TEMPO">
+        <TypeIdentifier>
+          <NewMemberFileName>Main.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAIAIQAAEAAAAACBhAAIAIgAAAA=</HashCode>
+      <FileName>Main.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicMachine::Electronic">
+    <Position X="24" Y="9.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAgAAEAAQAAAAAAAAEBgAAAAAAAAAA=</HashCode>
+      <FileName>Main.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicMachine::Rock">
+    <Position X="20.25" Y="9.75" Width="3" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="MusicMachine::Rock::VOLUME">
+        <TypeIdentifier>
+          <NewMemberFileName>Main.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAEEAARAAAAAAAAABgBIAAAAAAAI=</HashCode>
+      <FileName>Main.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicMachine::Jazz">
+    <Position X="16.5" Y="9.75" Width="3" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="MusicMachine::Jazz::IMPROVISATION">
+        <TypeIdentifier>
+          <NewMemberFileName>Main.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAQAAQEAABAABgAAAAAAAAAA=</HashCode>
+      <FileName>Main.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicMachine::Pop">
+    <Position X="12.75" Y="9.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAIAAAAAAAQAAAACAAAABgAAgAAAAEAA=</HashCode>
+      <FileName>Main.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicMachine::NonClassical">
+    <Position X="18" Y="6.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAQAAAAAAAAABgAAAgBAAAAA=</HashCode>
+      <FileName>Main.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicMachine::Orchestral">
+    <Position X="9.5" Y="9.75" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABQAAAAAAQAAAAAAAAAFgAAAAAAQAAA=</HashCode>
+      <FileName>Main.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicMachine::Chamber">
+    <Position X="6.25" Y="9.75" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="MusicMachine::Chamber::Instruments">
+        <TypeIdentifier>
+          <NewMemberFileName>Main.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQABAAAAAAAQAAAAAAAAABgAAAABAAAAA=</HashCode>
+      <FileName>Main.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicMachine::Classical">
+    <Position X="7.5" Y="6.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAgAAAAAAAQAQAAAAQAAAAAAAAABgAAAAAAgAAA=</HashCode>
+      <FileName>Main.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MusicMachine::MUSIC_TYPE" Collapsed="true">
+    <Position X="28" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAABAABCAAAAAAACAAEAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Main.cpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
